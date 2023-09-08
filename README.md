@@ -13,3 +13,8 @@ VulkanProfiler is used to profile the data of vulkan pipeline using hook.
 # Third Party
 - [Vulkan-Hook](https://github.com/DrNseven/Vulkan-Hook)
 - [kiero](https://github.com/Rebzzel/kiero)
+
+# Reference
+
+[Vulkan profiler](https://github.com/lstalmir/VulkanProfiler)
+[renderdoc](https://github.com/baldurk/renderdoc)
